@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Indice de Masa Corporal</string>
+    <string name="peso">Peso (Kg)</string>
+    <string name="masa">Estatura (Cm)</string>
+    <string name="bot_calc">Calcular IMC</string>
+    <string name="bot_about">Acerca de</string>
+    <string name="acerca">Acerca del autor</string>
+    <string name="nombre">Sandra Marcela Guerrero C</string>
+    <string name="udenar">Universidad de Nariño</string>
+    <string name="año">2017</string>
+    <string name="semestre">Décimo Semestre</string>
+    <string name="regresar">Regresar</string>
+    <string name="indice">El indice de su Masa corporal es:</string>
+    <string name="cat_bajoPeso">Usted presenta Bajo Peso</string>
+    <string name="delgadez_severa">Delgadez Severa</string>
+    <string name="delgadez_moderada">Delgadez Moderada</string>
+    <string name="delgadez_leve">Delgadez Leve</string>
+    <string name="cat_normal">Usted presenta IMC Normal</string>
+    <string name="cat_sobrepeso">Usted presenta sobrepeso</string>
+    <string name="preobeso">Preobeso</string>
+    <string name="obeso">Obesidad Leve</string>
+    <string name="cat_obesidad">Usted presenta Obesidad</string>
+    <string name="obes_Morbida">Obesidad Morbida</string>
+    <string name="obes_Media">Obesidad Media</string>
+    <string name="clasificacion">Clasificación</string>
+    <string name="calcula">Calcula tu Indice de Masa Corporal</string>
+</resources>

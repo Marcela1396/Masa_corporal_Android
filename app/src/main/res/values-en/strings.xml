@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Body Mass Index</string>
+    <string name="bot_about">About</string>
+    <string name="bot_calc">Calculate IMC</string>
+    <string name="masa">Height (Cm)</string>
+    <string name="peso">Weight (Kg)</string>
+    <string name="acerca">About</string>
+    <string name="udenar">Nariño University</string>
+    <string name="año">2017</string>
+    <string name="semestre">Tenth Semester</string>
+    <string name="nombre">Sandra Marcela Guerrero C</string>
+    <string name="regresar">Return</string>
+    <string name="indice">The index of your body mass is:</string>
+    <string name="cat_bajoPeso">You have low weight</string>
+    <string name="delgadez_severa">Severe thinness</string>
+    <string name="delgadez_leve">Light thinness</string>
+    <string name="delgadez_moderada">Moderate Thinness</string>
+    <string name="cat_normal">You have Normal Body Mass Index</string>
+    <string name="cat_sobrepeso">You have Overweight</string>
+    <string name="obeso">Mild Obesity</string>
+    <string name="preobeso">Preobese</string>
+    <string name="cat_obesidad">You have obesity</string>
+    <string name="obes_Media">Average Obesity</string>
+    <string name="obes_Morbida">Morbid Obesity</string>
+    <string name="clasificacion">Clasification</string>
+    <string name="calcula">Calculate your Body Mass Index</string>
+</resources>
